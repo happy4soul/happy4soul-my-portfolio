@@ -1,0 +1,56 @@
+body{
+  overflow-x: hidden;
+  overflow-y: scroll;
+  background-color: #171717;
+  color: white;
+  font-family: 'Merriweather', serif;
+
+}
+.a1{
+  margin-right: 3%;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: grey;
+}
+.a1:hover{
+  color: black;
+}
+
+.pic{
+  width: 40%;
+  border-radius: 100%;
+}
+
+.h2{
+  margin-top:4%;
+}
+
+.hr{
+  margin-top:3%;
+  color: white;
+}
+
+.h1{
+  margin-left:5%;
+  margin-top:5%;
+}
+
+ul{
+  margin-left:5%;
+  margin-top:2%;
+  font-size: 1.5rem;
+  line-height: 2;
+}
+
+.github{
+  width: 5%;
+  margin-left:3%;
+
+}
+footer{
+  margin-top:8%;
+}
+
+.contains-img{
+  padding-bottom: 3%;
+}
